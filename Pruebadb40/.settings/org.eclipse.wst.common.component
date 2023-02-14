@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="Pruebadb40">
+                
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <dependent-module archiveName="db4o-8.0.276.16149-all-java5.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/alu2daw/Desktop/Dbo4/db4o-8.0/lib/db4o-8.0.276.16149-all-java5.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                
+        <property name="context-root" value="Pruebadb40"/>
+                
+        <property name="java-output-path" value="/Pruebadb40/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
